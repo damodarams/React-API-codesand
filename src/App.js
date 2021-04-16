@@ -52,10 +52,6 @@ class App extends Component {
     });
   }
 
-  // componentWillUnmount() {
-  //   alert("The component is going to be unmounted");
-  // }
-
   render() {
     return (
       <div className="App" key="app">
